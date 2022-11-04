@@ -1,9 +1,9 @@
 module.exports = { 
     dsc: {
-        token: ''
+        token: 'Token_Here'
     },
 
     app: {
-        prefix: '/'
+        prefix: 'Prefix_Here'
     }
 };
